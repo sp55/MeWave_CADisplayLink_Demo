@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MeWave_CADisplayLink_Demo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8469FAF61D6BD65D0051CECA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8469FB0F1D6BD65D0051CECA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8469FB1A1D6BD65D0051CECA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
